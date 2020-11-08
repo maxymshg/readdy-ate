@@ -1,0 +1,21 @@
+{
+  "name": "readdy-ate",
+  "version": "1.0.0",
+  "description": "Part of READDY project. AWS Lambda for article text extraction and saving it to S3 for processing",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxymshg/readdy-ate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/maxymshg/readdy-ate/issues"
+  },
+  "homepage": "https://github.com/maxymshg/readdy-ate#readme"
+}
