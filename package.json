@@ -18,7 +18,7 @@
     "s3"
   ],
   "author": "Maksym Shekhovets",
-  "license": "Apache 2.0",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/maxymshg/readdy-ate/issues"
   },
