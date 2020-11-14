@@ -11,11 +11,22 @@
     "type": "git",
     "url": "git+https://github.com/maxymshg/readdy-ate.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "readdy",
+    "aws",
+    "lambda",
+    "s3"
+  ],
+  "author": "Maksym Shekhovets",
   "license": "Apache 2.0",
   "bugs": {
     "url": "https://github.com/maxymshg/readdy-ate/issues"
   },
-  "homepage": "https://github.com/maxymshg/readdy-ate#readme"
+  "homepage": "https://github.com/maxymshg/readdy-ate#readme",
+  "dependencies": {
+    "@mozilla/readability": "^0.3.0",
+    "aws-sdk": "^2.787.0",
+    "axios": "^0.21.0",
+    "jsdom": "^16.4.0"
+  }
 }
